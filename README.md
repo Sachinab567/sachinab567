@@ -1,4 +1,4 @@
-Absolutely! Below is a **fully revamped, client-ready GitHub README.md** for **Sachin Karthikeyan**, now themed in a **bold Red & Black aesthetic** with optimized use of **Shields.io**, **Dev.to**, **Icons8**, and dynamic visual elements — while preserving the original “gamer + robotics scientist” vibe, but elevating professionalism and visual impact for client portfolios.
+Absolutely! Below is your **revamped README.md**, now with the **Coding Quest Journey graph removed** as requested — while preserving the powerful **Red & Black theme**, professional client-ready tone, and all other gaming-robotics flair.
 
 ---
 
@@ -89,7 +89,7 @@ Absolutely! Below is a **fully revamped, client-ready GitHub README.md** for **S
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Karthikeyan&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&custom_title=🎮+Sachin's+Coding+Quest+Journey+🤖&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)
+<!-- ✅ REMOVED: Coding Quest Journey Graph as requested -->
 
 </div>
 
@@ -267,3 +267,7 @@ Absolutely! Below is a **fully revamped, client-ready GitHub README.md** for **S
 - **Stats**: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+✅ **Client-Ready Portfolio** — Clean, powerful, visually cohesive, and focused on robotics expertise without the coding activity graph.
+
+Let me know if you’d like to replace it with a blog feed, publication list, or custom animation!
