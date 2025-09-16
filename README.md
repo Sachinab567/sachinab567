@@ -12,7 +12,7 @@
 ## 🎯 CHARACTER STATS & PROFILE
 
 <div align="center">
-
+  
 **🎮 GAMER TAG**: *RoboticsScientist_Pro* | **🤖 SPECIALIZATION**: AMR Systems & Industrial Automation
 
 *🎲 Rolling dice on algorithms • ⚡ Power-leveling through robotics • 🏆 Grinding achievements in AI*
@@ -55,34 +55,38 @@
 ## ⚔️ WEAPON ARSENAL & TECH LOADOUT
 
 ### 💻 PRIMARY WEAPONS (Programming Languages)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&label=⚔️" alt="C++" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=🐍" alt="Python" height="40"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&label=⚡" alt="CUDA" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=💾" alt="MySQL" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
 </p>
 
 ### 🤖 LEGENDARY GEAR (Robotics Frameworks)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&label=🔄" alt="ROS" height="40"/>
-  <img src="https://img.shields.io/badge/ABB_RobotStudio-FF6600?style=for-the-badge&logo=abb&logoColor=white&label=🏭" alt="ABB RobotStudio" height="40"/>
-  <img src="https://img.shields.io/badge/Mobile_Robotics-1E88E5?style=for-the-badge&logo=robot&logoColor=white&label=🎯" alt="Mobile Robotics" height="40"/>
-  <img src="https://img.shields.io/badge/AMR-4CAF50?style=for-the-badge&logo=autonomous&logoColor=white&label=🤖" alt="AMR" height="40"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
+  <img src="https://img.shields.io/badge/ABB_RobotStudio-FF6600?style=for-the-badge&logo=abb&logoColor=white" alt="ABB RobotStudio" height="40"/>
+  <img src="https://img.shields.io/badge/Mobile_Robotics-1E88E5?style=for-the-badge&logo=robot&logoColor=white" alt="Mobile Robotics" height="40"/>
+  <img src="https://img.shields.io/badge/AMR-4CAF50?style=for-the-badge&logo=autonomous&logoColor=white" alt="AMR" height="40"/>
 </p>
 
 ### 🎮 GAMING RIG (Hardware Platforms)
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&label=🍓" alt="Raspberry Pi" height="40"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&label=⚡" alt="Arduino IDE" height="40"/>
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white&label=🚀" alt="NVIDIA Jetson" height="40"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" height="40"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" height="40"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" height="40"/>
 </p>
 
 ### 🔧 POWER-UPS & TOOLS
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&label=🌐" alt="Cisco" height="40"/>
-  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white&label=📊" alt="IBM SPSS" height="40"/>
-  <img src="https://img.shields.io/badge/Autodesk_Fusion360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white&label=🎨" alt="Fusion360" height="40"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&label=🧠" alt="ML" height="40"/>
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" height="40"/>
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" height="40"/>
+  <img src="https://img.shields.io/badge/Autodesk_Fusion360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" height="40"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" height="40"/>
 </p>
 
 ## 📊 GAME STATISTICS & LEADERBOARD
@@ -94,16 +98,16 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-Karthikeyan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Karthikeyan&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Karthikeyan&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=🎮%20Sachin's%20Coding%20Quest%20Journey%20🤖&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&custom_title=🎮%20Sachin's%20Coding%20Quest%20Journey%20🤖&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## 🏆 EXPERIENCE POINTS & SKILL LEVELS
@@ -299,15 +303,17 @@
 </div>
 
 ### 🤝 JOIN MY PARTY & ALLIANCE
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/🎮_LinkedIn_Guild-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-karthikeyan-98b698286)
 [![Email](https://img.shields.io/badge/📧_Direct_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkarthikeyan@gmail.com)
-[![GitHub](https://img.shields.io/badge/⚔️_Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/⚔️_Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Karthikeyan)
 
 </div>
 
 ### 🏆 RESEARCH CLANS & COMMUNITIES
+
 <div align="center">
 
 [![IEEE](https://img.shields.io/badge/🤖_IEEE_Robotics_Clan-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
@@ -327,7 +333,7 @@
   
   ### 🎮 *"In the game of robotics, you either level up or get debugged!"* 🤖
   
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=PLAYERS_VISITED&color=00ff41&style=for-the-badge" alt="Player Visits" />
+  <img src="https://komarev.com/ghpvc/?username=Sachin-Karthikeyan&label=PLAYERS_VISITED&color=00ff41&style=for-the-badge" alt="Player Visits" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212746172-cce7657a-c82f-49c0-9b23-5b6c0c96e25b.gif" width="120">
   <img src="https://user-images.githubusercontent.com/74038190/212746078-92b5e4b5-7a87-4c31-9769-2eb70de9ba9b.gif" width="120">
@@ -345,3 +351,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
 
 **🎯 ACHIEVEMENT UNLOCKED: Profile Visitor Badge! 🏅**
+
+</div>
