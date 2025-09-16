@@ -1,18 +1,27 @@
+Here is an improvised version of your README, merging the awesome "Gamer/Robotics Scientist" theme from your new code with the additional skills (like TensorFlow, PyTorch, OpenCV, etc.) from your old code.
+
+I've integrated the missing technologies into your "Skill Tree" and "Weapon Arsenal," created new matching red-themed badges for them, and added the GitHub Trophy card to fit your "Achievements" section.
+
+-----
+
+### 👇 Copy-Paste This Improvised Code 👇
+
+```markdown
 # 🎮 PLAYER: Sachin Karthikeyan | LEVEL: Robotics Scientist 🤖
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+DIGITAL+LABORATORY;🎮+GAMER+×+ROBOTICS+SCIENTIST+🤖;LEVEL+UP+THROUGH+CODE+%26+CIRCUITS;BOSS+BATTLES%3A+AMR+%26+AUTOMATION;ACHIEVEMENT+UNLOCKED%3A+AI+INTEGRATION;CO-OP+MODE%3A+LET'S+BUILD+THE+FUTURE!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+DIGITAL+LABORATORY;🎮+GAMER+×+ROBOTICS+SCIENTIST+🤖;LEVEL+UP+THROUGH+CODE+%26+CIRCUITS;BOSS+BATTLES%3A+AMR+%26+AUTOMATION;ACHIEVEMENT+UNLOCKED%3A+AI+INTEGRATION;CO-OP+MODE%3A+LET'S+BUILD+THE+FUTURE!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </div>
 
 ## 🎯 CHARACTER STATS & PROFILE
 
 <div align="center">
-  
-**🎮 GAMER TAG**: *RoboticsScientist_Pro* | **🤖 SPECIALIZATION**: AMR Systems & Industrial Automation
+  
+**🎮 GAMER TAG**: *RoboticsScientist_Pro* | **🤖 SPECIALIZATION**: AMR Systems & AI
 
 *🎲 Rolling dice on algorithms • ⚡ Power-leveling through robotics • 🏆 Grinding achievements in AI*
 
@@ -20,7 +29,7 @@
 
 </div>
 
-### 🎮 SKILL TREE & ABILITIES
+### 🎮 SKILL TREE & ABILITIES (Tech Stack)
 
 <table align="center">
 <tr>
@@ -28,21 +37,21 @@
 
 **🤖 ROBOTICS MASTERY BRANCH**
 - 🎯 **AMR Navigation**: Maxed out autonomous mobile robot systems
-- 🏭 **Industrial Automation**: Boss-level ABB RobotStudio expertise  
+- 🏭 **Industrial Automation**: Boss-level ABB RobotStudio expertise  
 - 🔄 **ROS/ROS2 Framework**: Elite-tier robot operating systems
 - ⚡ **CUDA Combat**: GPU-accelerated processing powers
-- 🎮 **Motion Control**: Precision servo & actuator combos
-- 📡 **Sensor Fusion**: Multi-sensor legendary equipment
+- 🦾 **Simulation**: MATLAB & Blender environment rendering
+- 📡 **Sensor Fusion**: Multi-sensor (LiDAR, Vision) legendary equipment
 
 </td>
 <td align="center" width="50%">
 
 **🧠 AI & PROGRAMMING SKILL SET**
-- 🤖 **Machine Learning**: Computer vision special abilities
-- 💾 **Database Mastery**: MySQL optimization techniques
-- 🌐 **Network Engineering**: Cisco industrial raid groups
-- 📊 **Data Analytics**: IBM SPSS statistical power-ups
-- 🐍 **Code Warrior**: C++ & Python combat proficiency
+- 🤖 **AI Frameworks**: TensorFlow & PyTorch special abilities
+- 👁️ **Computer Vision**: OpenCV expert-level perception
+- 📊 **Data Mastery**: Pandas & IBM SPSS statistical power-ups
+- 💾 **Database Raids**: MySQL, MongoDB & Oracle optimization
+- 🐍 **Code Warrior**: C, C++ & Python combat proficiency
 - 🔬 **Research Quest**: Advanced algorithm discoveries
 
 </td>
@@ -53,54 +62,69 @@
 
 ## ⚔️ WEAPON ARSENAL & TECH LOADOUT
 
-### 💻 PRIMARY WEAPONS (Programming Languages)
+### 💻 PRIMARY WEAPONS (Programming)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
-  <img src="https://img.shields.io/badge/Python-B22222?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
-  <img src="https://img.shields.io/badge/CUDA-8B0000?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
+  <img src="https://img.shields.io/badge/C-DC143C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/>
+  <img src="https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
+  <img src="https://img.shields.io/badge/Python-B22222?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/CUDA-8B0000?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="40"/>
 </p>
 
-### 🤖 LEGENDARY GEAR (Robotics Frameworks)
+### 🤖 LEGENDARY GEAR (AI & Robotics Frameworks)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-8B0000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
-  <img src="https://img.shields.io/badge/ABB_RobotStudio-DC143C?style=for-the-badge&logo=abb&logoColor=white" alt="ABB RobotStudio" height="40"/>
-  <img src="https://img.shields.io/badge/Mobile_Robotics-B22222?style=for-the-badge&logo=robot&logoColor=white" alt="Mobile Robotics" height="40"/>
-  <img src="https://img.shields.io/badge/AMR-FF0000?style=for-the-badge&logo=autonomous&logoColor=white" alt="AMR" height="40"/>
+  <img src="https://img.shields.io/badge/ROS-8B0000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch-B22222?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40"/>
+  <img src="https://img.shields.io/badge/OpenCV-DC143C?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="40"/>
+  <img src="https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40"/>
 </p>
 
-### 🎮 GAMING RIG (Hardware Platforms)
+### 🏭 INDUSTRIAL & SIM GEAR (Platforms)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-8B0000?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" height="40"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-DC143C?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" height="40"/>
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-B22222?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" height="40"/>
+  <img src="https://img.shields.io/badge/ABB_RobotStudio-DC143C?style=for-the-badge&logo=abb&logoColor=white" alt="ABB RobotStudio" height="40"/>
+  <img src="https://img.shields.io/badge/MATLAB-B22222?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="40"/>
+  <img src="https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-DC143C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" height="40"/>
 </p>
 
-### 🔧 POWER-UPS & TOOLS
+### 🎮 HARDWARE & TOOLS (The Rig)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco_Networking-FF0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" height="40"/>
-  <img src="https://img.shields.io/badge/IBM_SPSS-8B0000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" height="40"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-8B0000?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" height="40"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-DC143C?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" height="40"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-B22222?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" height="40"/>
   <img src="https://img.shields.io/badge/Autodesk_Fusion360-DC143C?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" height="40"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-B22222?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" height="40"/>
+</p>
+
+### 🔧 POWER-UPS (Databases & Networking)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-8B0000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/>
+  <img src="https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="40"/>
+  <img src="https://img.shields.io/badge/Cisco_Networking-FF0000?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" height="40"/>
+  <img src="https://img.shields.io/badge/IBM_SPSS-8B0000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" height="40"/>
 </p>
 
 ## 📊 GAME STATISTICS & LEADERBOARD
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-Karthikeyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Karthikeyan&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-Karthikeyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Karthikeyan&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Karthikeyan&theme=dark&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Karthikeyan&theme=dark&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&custom_title=🎮%20Sachin's%20Coding%20Quest%20Journey%20🤖&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachin-Karthikeyan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Sachin Karthikeyan's Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&custom_title=🎮%20Sachin's%20Coding%20Quest%20Journey%20🤖&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## 🏆 EXPERIENCE POINTS & SKILL LEVELS
@@ -111,11 +135,13 @@
 
 **🤖 ROBOTICS SKILL TREE**
 ```
-🎯 Mobile Robotics      ████████████ LVL 100
-🦾 AMR Development     ███████████░ LVL 90
-🏭 ABB RobotStudio     ███████████░ LVL 90
-🔄 ROS/ROS2           ████████░░░░ LVL 80
-⚡ Industrial Control  ███████████░ LVL 90
+
+🎯 Mobile Robotics      ████████████ LVL 100
+🦾 AMR Development     ███████████░ LVL 90
+🏭 ABB RobotStudio     ███████████░ LVL 90
+🔄 ROS/ROS2           ████████░░░░ LVL 80
+🦾 Simulation (MATLAB) ███████░░░░░ LVL 70
+
 ```
 
 </td>
@@ -123,11 +149,13 @@
 
 **💻 PROGRAMMING MASTERY**
 ```
-🐍 Python Sorcery     ████████████ LVL 100
-⚔️ C++ Warrior        ███████████░ LVL 90
-⚡ CUDA Lightning      ███████░░░░░ LVL 70
-🧠 ML Algorithms      ████████░░░░ LVL 80
-💾 Database Magic     ███████████░ LVL 90
+
+🐍 Python Sorcery     ████████████ LVL 100
+⚔️ C++ Warrior        ███████████░ LVL 90
+🧠 AI (TF/Torch)     ████████░░░░ LVL 80
+👁️ OpenCV Vision      ████████░░░░ LVL 80
+💾 Database Magic     ███████████░ LVL 90
+
 ```
 
 </td>
@@ -140,7 +168,7 @@
 <tr>
 <td align="center" width="25%">
 
-**🎯 QUEST: AMR DOMINATION**  
+**🎯 QUEST: AMR DOMINATION**  
 *Autonomous Mobile Robot supremacy through advanced SLAM algorithms and fleet coordination*
 
 **🏆 REWARD**: Industrial automation mastery
@@ -148,7 +176,7 @@
 </td>
 <td align="center" width="25%">
 
-**🏭 RAID: SMART FACTORY**  
+**🏭 RAID: SMART FACTORY**  
 *Leading industrial automation revolution with AI-powered manufacturing systems*
 
 **🏆 REWARD**: Production efficiency +500%
@@ -156,15 +184,15 @@
 </td>
 <td align="center" width="25%">
 
-**🧠 BOSS BATTLE: AI INTEGRATION**  
-*Merging machine learning with robotic perception for ultimate intelligent systems*
+**🧠 BOSS BATTLE: AI INTEGRATION**  
+*Merging deep learning with robotic perception for ultimate intelligent systems*
 
 **🏆 REWARD**: Computer vision legendary status
 
 </td>
 <td align="center" width="25%">
 
-**⚡ SPEEDRUN: REAL-TIME AI**  
+**⚡ SPEEDRUN: REAL-TIME AI**  
 *CUDA-accelerated edge computing for lightning-fast robotic responses*
 
 **🏆 REWARD**: Performance optimization mastery
@@ -176,7 +204,7 @@
 ## 🚀 LEGENDARY BUILDS & PROJECT SHOWCASE
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 <table align="center">
@@ -188,7 +216,7 @@
 
 ![Status](https://img.shields.io/badge/🏆_STATUS-LEGENDARY_BUILD-gold?style=for-the-badge)
 
-**⚔️ GEAR**: ROS2 • C++ • LiDAR • AI Vision  
+**⚔️ GEAR**: ROS2 • C++ • LiDAR • AI Vision  
 **🎯 ACHIEVEMENT**: Production deployment unlocked
 
 </td>
@@ -199,7 +227,7 @@
 
 ![Status](https://img.shields.io/badge/🚀_STATUS-BOSS_DEFEATED-success?style=for-the-badge)
 
-**⚔️ GEAR**: ABB Studio • PLC • MySQL • HMI  
+**⚔️ GEAR**: ABB Studio • PLC • MySQL • HMI  
 **🎯 ACHIEVEMENT**: Smart factory mastery
 
 </td>
@@ -210,7 +238,7 @@
 
 ![Status](https://img.shields.io/badge/⚡_STATUS-GRINDING_XP-blue?style=for-the-badge)
 
-**⚔️ GEAR**: Python • TensorFlow • OpenCV • CUDA  
+**⚔️ GEAR**: Python • TensorFlow • OpenCV • CUDA  
 **🎯 ACHIEVEMENT**: Computer vision legendary rank
 
 </td>
@@ -223,7 +251,7 @@
 <tr>
 <td align="center" width="25%">
 
-**🚀 ADVANCED ROS2 MASTERY**  
+**🚀 ADVANCED ROS2 MASTERY**  
 *Multi-robot coordination & distributed gaming systems*
 
 **📈 XP BOOST**: +2000 points
@@ -231,7 +259,7 @@
 </td>
 <td align="center" width="25%">
 
-**🤖 DEEP LEARNING ASCENSION**  
+**🤖 DEEP LEARNING ASCENSION**  
 *Neural network supremacy for robotic intelligence*
 
 **📈 XP BOOST**: +2500 points
@@ -239,7 +267,7 @@
 </td>
 <td align="center" width="25%">
 
-**⚡ EDGE COMPUTING SPEEDRUN**  
+**⚡ EDGE COMPUTING SPEEDRUN**  
 *Real-time ML optimization for ultimate performance*
 
 **📈 XP BOOST**: +1800 points
@@ -247,7 +275,7 @@
 </td>
 <td align="center" width="25%">
 
-**🔬 SWARM ROBOTICS EXPEDITION**  
+**🔬 SWARM ROBOTICS EXPEDITION**  
 *Multi-agent systems and collective AI intelligence*
 
 **📈 XP BOOST**: +3000 points
@@ -259,17 +287,17 @@
 ## 🏅 ACHIEVEMENT UNLOCKED & TROPHIES EARNED
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_ROBOTICS_MASTER-LEGENDARY-gold?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎯_AMR_SPECIALIST-ELITE-red?style=for-the-badge&logo=autonomous&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🏭_AUTOMATION_GURU-MYTHIC-darkred?style=for-the-badge&logo=industry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🧠_AI_INNOVATOR-LEGENDARY-crimson?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎮_CODE_WARRIOR-MAX_LEVEL-black?style=for-the-badge&logo=gamepad&logoColor=red"/>
+  <img src="https://img.shields.io/badge/🏆_ROBOTICS_MASTER-LEGENDARY-gold?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎯_AMR_SPECIALIST-ELITE-red?style=for-the-badge&logo=autonomous&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏭_AUTOMATION_GURU-MYTHIC-darkred?style=for-the-badge&logo=industry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠_AI_INNOVATOR-LEGENDARY-crimson?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="httpsci/badge/🎮_CODE_WARRIOR-MAX_LEVEL-black?style=for-the-badge&logo=gamepad&logoColor=red"/>
 </div>
 
 ## 🎮 MULTIPLAYER MODE & GUILD RECRUITMENT
 
 <div align="center">
-  
+  
 [![LinkedIn](https://img.shields.io/badge/🎮_LinkedIn_Guild-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-karthikeyan-98b698286)
 [![Email](https://img.shields.io/badge/📧_Direct_Message-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkarthikeyan@gmail.com)
 [![GitHub](https://img.shields.io/badge/⚔️_Code_Repository-000000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/Sachin-Karthikeyan)
@@ -285,25 +313,29 @@
 [![ROS Community](https://img.shields.io/badge/🔄_ROS_Gaming_Guild-DC143C?style=for-the-badge&logo=ros&logoColor=white)](https://discourse.ros.org)
 
 </div>
+<br>
+<div align="center">
 
 **🎯 LOOKING FOR**: Co-op Partners • Raid Teams • Quest Companions • Innovation Allies
 
 **💡 GAME MODES**: Robotics PvE • Automation Raids • AI Boss Battles • Industrial Speedruns
 
----
-
-<div align="center">
-  
-  ### 🎮 *"In the game of robotics, you either level up or get debugged!"* 🤖
-  
-  <img src="https://komarev.com/ghpvc/?username=Sachin-Karthikeyan&label=PLAYERS_VISITED&color=dc143c&style=for-the-badge" alt="Player Visits" />
-  
 </div>
 
 ---
 
 <div align="center">
-  
+  
+  ### 🎮 *"In the game of robotics, you either level up or get debugged!"* 🤖
+  
+  <img src="https://komarev.com/ghpvc/?username=Sachin-Karthikeyan&label=PLAYERS_VISITED&color=dc143c&style=for-the-badge" alt="Player Visits" />
+  
+</div>
+
+---
+
+<div align="center">
+  
 **🎮 GG! Thanks for visiting my digital laboratory! Ready to team up and build epic robots? 🤖**
 
 *🚀 Let's co-op on legendary robotics projects and achieve the ultimate automation victory! 🏆*
@@ -313,3 +345,4 @@
 **🎯 ACHIEVEMENT UNLOCKED: Profile Visitor Badge! 🏅**
 
 </div>
+```
