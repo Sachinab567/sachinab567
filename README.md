@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="90" />
 </div>
 
 ## 🎯 Professional Identity
@@ -86,7 +87,9 @@
 ## 🏆 Skill Mastery Levels
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/219922363-e5c1e78b-6d0a-4d68-b42b-e0b4ea5c7e3d.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
   
   ### 🎯 Technical Proficiency Matrix 🎯
   
@@ -122,32 +125,50 @@ IBM SPSS          ███████░░░  70%
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/219922590-d7668c59-738b-4513-8c0f-7e4ba7e60c9a.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 </div>
 
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
+</div>
+
+<br>
+
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Sachin's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300">
+  
+  **💫 Coding Journey: Turning algorithms into autonomous reality!** 
 </div>
 
 ## 🔬 Research & Innovation Areas
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/219922034-c5d4c1ac-5b30-43ae-b123-cc96e8e5ba1e.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276f0117-5e0b-4dfe-9e48-7a4b99c1b97b.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/219922034-c5d4c1ac-5b30-43ae-b123-cc96e8e5ba1e.gif" width="150">
 </div>
 
 <table align="center" width="100%">
@@ -190,7 +211,9 @@ and GPU acceleration
 ## 🚀 Featured Projects & Innovations
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/219923617-4322020b-2c62-4e4e-848b-4c9a3c35b6a0.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/219922748-bb05f1eb-3b09-4ad2-9e87-57eaee5efc1b.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/219923617-4322020b-2c62-4e4e-848b-4c9a3c35b6a0.gif" width="100">
   
   ### 🛠️ Engineering Portfolio & Active Development 🛠️
   
@@ -234,7 +257,9 @@ and GPU acceleration
 ## 🎯 Current Learning & Development Goals
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/219923456-72e28b6c-dd84-45b4-a0e4-16a3b6ba69b7.gif" width="180">
+  <img src="https://user-images.githubusercontent.com/74038190/219922871-b5a7f12f-59e6-4c1b-a93e-52d91b2b8b5a.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/219923456-72e28b6c-dd84-45b4-a0e4-16a3b6ba69b7.gif" width="180">
 </div>
 
 <table align="center" width="100%">
@@ -287,7 +312,8 @@ and swarm robotics
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/219922363-e5c1e78b-6d0a-4d68-b42b-e0b4ea5c7e3d.gif" width="150">
   
   <br>
   
@@ -314,13 +340,14 @@ and swarm robotics
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
   ### *"The future belongs to those who learn more skills and combine them in creative ways."* – Robert Greene
   
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/235294009-8b8b3252-71b6-4b5d-9f3a-7d7a4d8f6c57.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/219922871-b5a7f12f-59e6-4c1b-a93e-52d91b2b8b5a.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/219923456-72e28b6c-dd84-45b4-a0e4-16a3b6ba69b7.gif" width="150">
 </div>
 
 ---
@@ -331,6 +358,7 @@ and swarm robotics
   
 *Ready to collaborate on the next breakthrough in autonomous robotics*
   
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-5c8f7d34-9b26-45e7-b13a-92b5fba65d3c.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/219922748-bb05f1eb-3b09-4ad2-9e87-57eaee5efc1b.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="150">
   
 </div>
