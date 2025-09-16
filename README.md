@@ -1,25 +1,11 @@
-Understood! You want:
-
-✅ **Fixed Intro Typing SVG** — Using correct, working URL + enhanced visual styling  
-✅ **Fixed “Current Missions” Section** — Replace placeholder/static table with **dynamic animated dividers or relevant GIFs** to match the gaming theme  
-✅ **Choose Proper Animated Assets** — From trusted sources like Icons8, Giphy, or Shields.io-compatible loaders  
-✅ **Preserve Red & Black Theme + All Previous Fixes** — Including streak stats fix and removed activity graph
-
----
-
-Here’s your **final, polished, client-ready README.md** — with **proper animated elements** in intro and missions section:
-
----
-
 # 🎮 PLAYER: Sachin Karthikeyan | LEVEL: Robotics Scientist 🤖  
 > *“Respawning robots, debugging reality, and leveling up the future — one commit at a time.”*
 
 <div align="center">
-  <!-- ✅ FIXED: Typing SVG with official endpoint + centered animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MY+DIGITAL+LAB;🎮+GAMER+×+ROBOTICS+SCIENTIST+🤖;LEVEL+UP+THROUGH+CODE+%26+CIRCUITS;BOSS+BATTLES%3A+AMR+%26+AUTOMATION;ACHIEVEMENT+UNLOCKED%3A+AI+INTEGRATION;CO-OP+MODE%3A+LET%27S+BUILD+THE+FUTURE!" alt="Typing SVG" />
 
-  <!-- ✅ ADDED: Animated Intro Divider -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWg4a2Z2eGZ0eGZ0d2N0a3FyNnBpYzJ5c3l5cWc0eW1uN3BpZ3Z3b2R5d2JqY2x2d3Z0d2Z5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JJEsHTQbwSnRlh6/giphy.gif" width="300" />
+  <!-- Icons8 Inspired Loading Animation -->
+  <img src="https://media.giphy.com/media/l2JJEsHTQbwSnRlh6/giphy.gif" width="300" alt="System Booting" />
 </div>
 
 ---
@@ -27,11 +13,11 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ## 🎯 PROFILE OVERVIEW
 
 <div align="center">
-  
-![Gamer Tag](https://img.shields.io/badge/🎮_GAMER_TAG-RoboticsScientist_Pro-red?style=for-the-badge&logo=gamepad&logoColor=white)
-![Specialization](https://img.shields.io/badge/🤖_SPECIALIZATION-AMR+%26+Industrial+Automation-red?style=for-the-badge&logo=robot&logoColor=white)
-![Location](https://img.shields.io/badge/📍_SERVER-India-red?style=for-the-badge&logo=india&logoColor=white)
-![Game Mode](https://img.shields.io/badge/🎮_GAME_MODE-Collaborative_Development-red?style=for-the-badge&logo=github&logoColor=white)
+
+![Gamer Tag](https://img.shields.io/badge/%F0%9F%8E%AE%20GAMER_TAG-RoboticsScientist_Pro-red?style=for-the-badge&logo=gamepad&logoColor=white)
+![Specialization](https://img.shields.io/badge/%F0%9F%A4%96%20SPECIALIZATION-AMR+%26+Industrial+Automation-red?style=for-the-badge&logo=robot&logoColor=white)
+![Location](https://img.shields.io/badge/%F0%9F%93%8C%20SERVER-India-red?style=for-the-badge&logo=india&logoColor=white)
+![Game Mode](https://img.shields.io/badge/%F0%9F%8E%AE%20GAME_MODE-Collaborative_Development-red?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -43,16 +29,16 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 <p align="center">
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-FF0000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="https://developer.nvidia.com/cuda-toolkit">
     <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-FF6B00?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </p>
 
@@ -60,7 +46,7 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 <p align="center">
   <a href="https://www.ros.org/">
-    <img src="https://img.shields.io/badge/ROS-FF0000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   </a>
   <a href="https://new.abb.com/products/robotstudio">
     <img src="https://img.shields.io/badge/ABB_RobotStudio-FF6600?style=for-the-badge&logo=abb&logoColor=white" alt="ABB RobotStudio" />
@@ -86,7 +72,7 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
     <img src="https://img.shields.io/badge/Autodesk_Fusion360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion360" />
   </a>
   <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
 </p>
 
@@ -148,27 +134,27 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ### 🎮 WAREHOUSE CONQUEROR — AMR SYSTEM
 > *Elite autonomous logistics robot for smart warehouses*
 
-![Status](https://img.shields.io/badge/🏆_STATUS-LEGENDARY_BUILD-gold?style=for-the-badge&logo=robot&logoColor=black)
-![Tech](https://img.shields.io/badge/⚔️_GEAR-ROS2·C++·LiDAR·AI_Vision-red?style=flat-square)
-![Deployed](https://img.shields.io/badge/🎯_ACHIEVEMENT-Production_Deployed!-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/%F0%9F%8F%86%20STATUS-LEGENDARY_BUILD-gold?style=for-the-badge&logo=robot&logoColor=black)
+![Tech](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GEAR-ROS2%C2%B7C%2B%2B%C2%B7LiDAR%C2%B7AI_Vision-red?style=flat-square)
+![Deployed](https://img.shields.io/badge/%F0%9F%8E%AF%20ACHIEVEMENT-Production_Deployed!-brightgreen?style=for-the-badge)
 
 ---
 
 ### 🏭 INDUSTRIAL OVERLORD — SMART FACTORY
 > *ABB-powered robotic manufacturing cell with HMI & PLC control*
 
-![Status](https://img.shields.io/badge/🚀_STATUS-BOSS_DEFEATED-success?style=for-the-badge&logo=industry&logoColor=white)
-![Tech](https://img.shields.io/badge/⚔️_GEAR-ABB·PLC·MySQL·HMI-red?style=flat-square)
-![Efficiency](https://img.shields.io/badge/🎯_REWARD-+500%25_Efficiency-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/%F0%9F%9A%80%20STATUS-BOSS_DEFEATED-success?style=for-the-badge&logo=industry&logoColor=white)
+![Tech](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GEAR-ABB%C2%B7PLC%C2%B7MySQL%C2%B7HMI-red?style=flat-square)
+![Efficiency](https://img.shields.io/badge/%F0%9F%8E%AF%20REWARD-%2B500%25_Efficiency-brightgreen?style=for-the-badge)
 
 ---
 
 ### 🧠 VISION MASTER — AI PERCEPTION
 > *Real-time object detection & SLAM using TensorFlow & CUDA*
 
-![Status](https://img.shields.io/badge/⚡_STATUS-GRINDING_XP-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Tech](https://img.shields.io/badge/⚔️_GEAR-Python·OpenCV·CUDA·TF-red?style=flat-square)
-![Rank](https://img.shields.io/badge/🎯_ACHIEVEMENT-Computer_Vision_Legend-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F%20STATUS-GRINDING_XP-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tech](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20GEAR-Python%C2%B7OpenCV%C2%B7CUDA%C2%B7TF-red?style=flat-square)
+![Rank](https://img.shields.io/badge/%F0%9F%8E%AF%20ACHIEVEMENT-Computer_Vision_Legend-purple?style=for-the-badge)
 
 </div>
 
@@ -177,8 +163,8 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ## 🎮 CURRENT MISSIONS — ONGOING QUESTS
 
 <div align="center">
-  <!-- ✅ ADDED: Animated Mission Divider -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNtMjF2cGZ2eW5sYzBpY2FtM3R5Y2V0dXJ2aWJ1a2ZyZ3Z3eWJ0d2J4d2J5c3BpZzF5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n79TQGUaaWjRLLK/giphy.gif" width="250" />
+  <!-- Retro Mission Start GIF -->
+  <img src="https://media.giphy.com/media/26n79TQGUaaWjRLLK/giphy.gif" width="250" alt="Mission Loading" />
 </div>
 
 <table align="center" width="100%" style="background: #111; color: #fff; border: 1px solid #FF0000; border-radius: 8px; padding: 16px;">
@@ -188,7 +174,7 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ### 🚀 ADVANCED ROS2  
 *Multi-robot coordination systems*
 
-![XP](https://img.shields.io/badge/📈_XP_BOOST-+2000-points-red?style=for-the-badge)
+![XP](https://img.shields.io/badge/%F0%9F%93%88%20XP_BOOST-%2B2000-points-red?style=for-the-badge)
 
 </td>
 <td width="25%" align="center">
@@ -196,7 +182,7 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ### 🤖 DEEP LEARNING  
 *Neural nets for robotic intelligence*
 
-![XP](https://img.shields.io/badge/📈_XP_BOOST-+2500-points-red?style=for-the-badge)
+![XP](https://img.shields.io/badge/%F0%9F%93%88%20XP_BOOST-%2B2500-points-red?style=for-the-badge)
 
 </td>
 <td width="25%" align="center">
@@ -204,7 +190,7 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ### ⚡ EDGE COMPUTING  
 *Real-time ML on Jetson devices*
 
-![XP](https://img.shields.io/badge/📈_XP_BOOST-+1800-points-red?style=for-the-badge)
+![XP](https://img.shields.io/badge/%F0%9F%93%88%20XP_BOOST-%2B1800-points-red?style=for-the-badge)
 
 </td>
 <td width="25%" align="center">
@@ -212,15 +198,15 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 ### 🔬 SWARM ROBOTICS  
 *Collective AI behavior systems*
 
-![XP](https://img.shields.io/badge/📈_XP_BOOST-+3000-points-red?style=for-the-badge)
+![XP](https://img.shields.io/badge/%F0%9F%93%88%20XP_BOOST-%2B3000-points-red?style=for-the-badge)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <!-- ✅ ADDED: Bottom Mission Divider -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNtMjF2cGZ2eW5sYzBpY2FtM3R5Y2V0dXJ2aWJ1a2ZyZ3Z3eWJ0d2J4d2J5c3BpZzF5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n79TQGUaaWjRLLK/giphy.gif" width="250" />
+  <!-- Retro Mission Complete GIF -->
+  <img src="https://media.giphy.com/media/26n79TQGUaaWjRLLK/giphy.gif" width="250" alt="Mission Loading" />
 </div>
 
 ---
@@ -229,11 +215,11 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 <div align="center">
 
-![Robotics Master](https://img.shields.io/badge/🏆_ROBOTICS_MASTER-LEGENDARY-gold?style=for-the-badge&logo=robot&logoColor=black)
-![AMR Specialist](https://img.shields.io/badge/🎯_AMR_SPECIALIST-ELITE-blue?style=for-the-badge&logo=autonomous&logoColor=white)
-![Automation Guru](https://img.shields.io/badge/🏭_AUTOMATION_GURU-MYTHIC-green?style=for-the-badge&logo=industry&logoColor=white)
-![AI Innovator](https://img.shields.io/badge/🧠_AI_INNOVATOR-LEGENDARY-purple?style=for-the-badge&logo=brain&logoColor=white)
-![Code Warrior](https://img.shields.io/badge/🎮_CODE_WARRIOR-MAX_LEVEL-red?style=for-the-badge&logo=gamepad&logoColor=white)
+![Robotics Master](https://img.shields.io/badge/%F0%9F%8F%86%20ROBOTICS_MASTER-LEGENDARY-gold?style=for-the-badge&logo=robot&logoColor=black)
+![AMR Specialist](https://img.shields.io/badge/%F0%9F%8E%AF%20AMR_SPECIALIST-ELITE-blue?style=for-the-badge&logo=autonomous&logoColor=white)
+![Automation Guru](https://img.shields.io/badge/%F0%9F%8F%AD%20AUTOMATION_GURU-MYTHIC-green?style=for-the-badge&logo=industry&logoColor=white)
+![AI Innovator](https://img.shields.io/badge/%F0%9F%A7%A0%20AI_INNOVATOR-LEGENDARY-purple?style=for-the-badge&logo=brain&logoColor=white)
+![Code Warrior](https://img.shields.io/badge/%F0%9F%8E%AE%20CODE_WARRIOR-MAX_LEVEL-red?style=for-the-badge&logo=gamepad&logoColor=white)
 
 </div>
 
@@ -245,19 +231,19 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 ### 📬 CONNECT WITH ME
 
-[![LinkedIn](https://img.shields.io/badge/🎮_LinkedIn_Guild-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-karthikeyan-98b698286)
-[![Email](https://img.shields.io/badge/📧_Direct_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkarthikeyan@gmail.com)
-[![GitHub](https://img.shields.io/badge/⚔️_Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Karthikeyan)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%8E%AE%20LinkedIn_Guild-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-karthikeyan-98b698286)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Direct_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinkarthikeyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Karthikeyan)
 
 ### 🧪 RESEARCH CLANS
 
-[![IEEE](https://img.shields.io/badge/🤖_IEEE_Robotics_Clan-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
-[![ResearchGate](https://img.shields.io/badge/🔬_Research_Alliance-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchgate.net)
-[![ROS Community](https://img.shields.io/badge/🔄_ROS_Gaming_Guild-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://discourse.ros.org)
+[![IEEE](https://img.shields.io/badge/%F0%9F%A4%96%20IEEE_Robotics_Clan-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
+[![ResearchGate](https://img.shields.io/badge/%F0%9F%94%AC%20Research_Alliance-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchgate.net)
+[![ROS Community](https://img.shields.io/badge/%F0%9F%94%84%20ROS_Gaming_Guild-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://discourse.ros.org)
 
 ### ✍️ DEV.TO BLOGS (Coming Soon)
 
-> Stay tuned for dev logs, robotics tutorials, and AI breakdowns on [Dev.to](https://dev.to/)
+> Stay tuned for dev logs, robotics tutorials, and AI breakdowns on [Dev.to](https://dev.to)
 
 </div>
 
@@ -271,7 +257,8 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 > **🎮 GG! Ready to co-op on legendary robotics projects? Let’s build the future — together.** 🤖
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R0eDZ5dWZ2dWJ5a2x0ZjR2cWZwM2R2dDl3bWd0a3B5d3Z1eWJ0b2NlM3l4d2Z5d3d5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ2l8hwgYE/giphy.gif" width="200" />
+<!-- Destiny Ghost "You're welcome" GIF -->
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ2l8hwgYE/giphy.gif" width="200" alt="Destiny Ghost" />
 
 </div>
 
@@ -283,21 +270,9 @@ Here’s your **final, polished, client-ready README.md** — with **proper anim
 
 ### 🎨 DESIGN CREDITS
 - **Theme**: Red & Black Cyberpunk / Gaming UI
-- **Icons**: [Icons8](https://icons8.com), [Shields.io](https://shields.io), [Dev.to](https://dev.to)
+- **Icons**: [Shields.io](https://shields.io), [Icons8](https://icons8.com) (inspired styling)
 - **Typing SVG**: [Readme Typing SVG @ Demolab](https://readme-typing-svg.demolab.com)
 - **Stats**: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) • [Streak Stats @ Demolab](https://streak-stats.demolab.com)
 - **GIFs**: Curated from [Giphy](https://giphy.com) — Gaming & Tech themed
 
 ---
-
-✅ **100% Fixed & Enhanced** — Intro SVG works, Missions section now has animated dividers, all links verified.
-
-📌 **Copy-paste this entire block into your `README.md` — it’s production-ready for clients, recruiters, and collaborators.**
-
-Let me know if you want to add:
-- Live blog feed from Dev.to
-- YouTube channel showcase
-- Embedded project demos or video trailers
-- Dark animated background (CSS/HTML trick for GitHub)
-
-You’re all set to impress! 🚀🤖
