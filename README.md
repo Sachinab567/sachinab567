@@ -1,17 +1,3 @@
-Understood. Below is the **exact updated README.md code** with these critical fixes applied:
-
-✅ **Fixed Typing SVG URL** — Replaced deprecated `readme-typing-svg.herokuapp.com` with the **new official endpoint**:  
-👉 `https://readme-typing-svg.demolab.com`
-
-✅ **Fixed Streak Stats URL** — Replaced deprecated Heroku endpoint with the **new official domain**:  
-👉 `https://streak-stats.demolab.com`
-
-✅ **Removed Coding Quest Graph** — As previously requested.
-
-✅ **Preserved Red & Black Theme** — All styling, badges, structure, and gamer-scientist vibe remain intact.
-
----
-
 # 🎮 PLAYER: Sachin Karthikeyan | LEVEL: Robotics Scientist 🤖  
 > *“Respawning robots, debugging reality, and leveling up the future — one commit at a time.”*
 
@@ -278,7 +264,3 @@ Understood. Below is the **exact updated README.md code** with these critical fi
 - **Stats**: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) • [Streak Stats @ Demolab](https://streak-stats.demolab.com)
 
 ---
-
-✅ **Fully Fixed & Client-Ready** — All broken links resolved. Copy-paste this entire block into your `README.md` and it will render perfectly.
-
-Let me know if you want to embed Dev.to articles, add a YouTube channel badge, or integrate a live blog feed next!
