@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=256&section=header&text=ROBOTICS%20×%20AUTOMATION%20×%20GAMING&fontSize=36&fontAlignY=38&desc=Welcome%20to%20the%20Digital%20Nexus%20of%20Innovation&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
 
-  <img src="https://i.imgur.com/nKxFjKb.gif" width="100%" alt="Cyberpunk City" />
+  <img src="https://media.giphy.com/media/d3yxg15kJLgOzvjO/giphy.gif" width="100%" alt="Mecha Cockpit HUD" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=⚡+SYSTEM+ONLINE+⚡;🎮+PLAYER%3A+ROBOTICS_SCIENTIST+🤖;💀+DIFFICULTY%3A+NIGHTMARE+MODE+💀;🔥+SPECIALIZATION%3A+AMR+%26+AUTOMATION+🔥" alt="Typing SVG" />
 
@@ -16,10 +16,10 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+  <img src="https://media.giphy.com/media/wZfzeOnMS1y3a94Gff/giphy.gif" width="100%" alt="Divider"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **PLAYER PROFILE** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+## <img src="https://media.giphy.com/media/U6jki7c1j3dHa/giphy.gif" width="30" /> **PLAYER PROFILE** <img src="https://media.giphy.com/media/U6jki7c1j3dHa/giphy.gif" width="30" />
 
 <div align="center">
   <table>
@@ -35,7 +35,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Robot GIF" />
+  <img src="https://media.giphy.com/media/1A35dCFLoBWH5aE5h5/giphy.gif" width="400" alt="Robot Character GIF" />
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 📊 **BATTLE STATS** 📊
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider"/>
+  <img src="https://media.giphy.com/media/wZfzeOnMS1y3a94Gff/giphy.gif" width="100%" alt="Divider"/>
 </div>
 
 <div align="center">
@@ -114,7 +114,7 @@
 ## 🏆 **LEGENDARY ACHIEVEMENTS** 🏆
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Achievements GIF" />
+  <img src="https://media.giphy.com/media/JUSwioIarvM4M/giphy.gif" width="400" alt="Achievement Unlocked GIF" />
 </div>
 
 <div align="center">
@@ -197,9 +197,7 @@
 ## 🎮 **JOIN MY GUILD** 🎮
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+  <img src="https://media.giphy.com/media/l41lI4bYmcsR39EVa/giphy.gif" width="300" />
   <br>
   <h3>Ready for Co-op Mode? Let's Build Something Epic!</h3>
 
@@ -220,12 +218,12 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-74c1e9f5-9cbd-47c6-b436-69653e6f9b26.gif" width="400" alt="Game Over" />
+  <img src="https://media.giphy.com/media/XJc8u3DexgZRY9k9va/giphy.gif" width="400" alt="Game Over" />
 
   <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+    <img src="https://media.giphy.com/media/U6jki7c1j3dHa/giphy.gif" width="30" />
     Thanks for visiting! Press [F] to pay respects
-    <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+    <img src="https://media.giphy.com/media/U6jki7c1j3dHa/giphy.gif" width="30" />
   </h3>
 
   ```python
