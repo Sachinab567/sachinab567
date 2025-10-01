@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Welcome+to+my+GitHub!;🎮+Gamer+%26+Electronics+%26+Software+Engineer;IoT+%26+AI+Enthusiast;🤖+Robotics+%26+Automation+Expert;Innovation+through+Code+%26+Circuits" alt="Typing SVG" />
   
-  <img src="https://media.giphy.com/media/21Q45O8lemGoWUtPj1/giphy.gif" width="400" alt="Robotics Car" />
+  <img src="https://media.giphy.com/media/WtC9iXwuvMGmoRQOfn/giphy.gif" width="400" alt="Robot Gamer" />
   
-  <img src="https://media.giphy.com/media/jymizvHJAtZXuQQhdo/giphy.gif" width="400" alt="Robot Gamer" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="400" alt="Futuristic Robot Tech" />
   
   <img src="https://media.giphy.com/media/AEzRnIFmsDbSN79M0N/giphy.gif" width="400" alt="Futuristic Tech" />
 </div>
