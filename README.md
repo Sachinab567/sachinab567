@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=E4000F&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MY+DIGITAL+LAB;🎮+GAMER+×+ROBOTICS+SCIENTIST+🤖;LEVEL+UP+THROUGH+CODE+%26+CIRCUITS;BOSS+BATTLES%3A+AMR+%26+AUTOMATION;ACHIEVEMENT+UNLOCKED%3A+AI+INTEGRATION;CO-OP+MODE%3A+LET'S+BUILD+THE+FUTURE!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Welcome+to+my+GitHub!;🎮+Gamer+%26+Electronics+%26+Software+Engineer;IoT+%26+AI+Enthusiast;🤖+Robotics+%26+Automation+Expert;Innovation+through+Code+%26+Circuits" alt="Typing SVG" />
   
   <img src="https://media.giphy.com/media/21Q45O8lemGoWUtPj1/giphy.gif" width="400" alt="Robotics Car" />
   
@@ -13,10 +13,10 @@
 ### <p align="center">🎯 PLAYER OVERVIEW 🎯</p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/GAMER_TAG-RoboScientist-E4000F?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Gamer Tag"/>
-    <img src="https://img.shields.io/badge/SPECIALIZATION-AMR_&_Automation-E4000F?style=for-the-badge&logo=robotframework&logoColor=white" alt="Specialization"/>
-    <img src="https://img.shields.io/badge/SERVER-India-E4000F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-    <img src="https://img.shields.io/badge/GAME_MODE-Collaborative-E4000F?style=for-the-badge&logo=github&logoColor=white" alt="Game Mode"/>
+    <img src="https://img.shields.io/badge/GAMER_TAG-RoboScientist-00D4FF?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Gamer Tag"/>
+    <img src="https://img.shields.io/badge/SPECIALIZATION-AMR_&_Automation-00D4FF?style=for-the-badge&logo=robotframework&logoColor=white" alt="Specialization"/>
+    <img src="https://img.shields.io/badge/SERVER-India-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/GAME_MODE-Collaborative-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Game Mode"/>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
@@ -32,7 +32,7 @@
 <table align="center" width="100%">
   <tr align="center">
     <td valign="top" width="50%">
-      <h3 style="color:#E4000F;">💻 PRIMARY LANGUAGES</h3>
+      <h3 style="color:#00D4FF;">💻 PRIMARY LANGUAGES</h3>
       <p>
         <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
         <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -44,7 +44,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3 style="color:#E4000F;">🤖 ROBOTICS & AI FRAMEWORKS</h3>
+      <h3 style="color:#00D4FF;">🤖 ROBOTICS & AI FRAMEWORKS</h3>
       <p>
         <a href="https://www.ros.org/"><img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/></a>
         <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
@@ -57,7 +57,7 @@
   </tr>
   <tr align="center">
     <td valign="top" width="50%">
-      <h3 style="color:#E4000F;">🔧 TOOLS & PLATFORMS</h3>
+      <h3 style="color:#00D4FF;">🔧 TOOLS & PLATFORMS</h3>
       <p>
         <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
         <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
@@ -69,7 +69,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3 style="color:#E4000F;">☁️ CLOUD & NETWORKING</h3>
+      <h3 style="color:#00D4FF;">☁️ CLOUD & NETWORKING</h3>
       <p>
         <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
         <a href="https://www.cisco.com/"><img alt="Cisco" src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
@@ -83,7 +83,7 @@
 </table>
 
 <div align="center">
-  <h3 style="color:#E4000F;">🎮 GAMING SKILLS INTEGRATED WITH TECH</h3>
+  <h3 style="color:#00D4FF;">🎮 GAMING SKILLS INTEGRATED WITH TECH</h3>
   <p>
     <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
     <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
@@ -98,17 +98,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Karthikeyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Karthikeyan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Karthikeyan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=141321)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Karthikeyan&layout=compact&langs_count=8&theme=cobalt&hide_border=true&bg_color=141321)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Sachin-Karthikeyan&theme=dark&hide_border=true&background=141321&stroke=E4000F&ring=E4000F&fire=FF6B35)
+![Streak Stats](https://streak-stats.demolab.com?user=Sachin-Karthikeyan&theme=dark&hide_border=true&background=141321&stroke=00D4FF&ring=00D4FF&fire=00D4FF)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&bg_color=141321&color=ffffff&line=e4000f&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-Karthikeyan&bg_color=141321&color=ffffff&line=00d4ff&point=ffffff&area=true&hide_border=true)
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Sachin-Karthikeyan&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=Sachin-Karthikeyan&theme=onedark&no-frame=true&margin-w=15&margin-h=15)
 
-<img src="https://img.shields.io/github/followers/Sachin-Karthikeyan?style=for-the-badge&color=E4000F&logo=github&logoColor=white" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Sachin-Karthikeyan?style=for-the-badge&color=00D4FF&logo=github&logoColor=white" alt="GitHub Followers"/>
 
 ![Snake animation](https://raw.githubusercontent.com/Sachin-Karthikeyan/Sachin-Karthikeyan/output/github-contribution-grid-snake.svg)
 
@@ -125,7 +125,7 @@
   <blockquote><em>Elite autonomous logistics robot for smart warehouses, leveraging ROS2 for navigation and AI for dynamic obstacle avoidance.</em></blockquote>
   <p>
     <img src="https://img.shields.io/badge/STATUS-Production_Deployed-brightgreen?style=for-the-badge&logo=icloud&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/TECH-ROS2_|_C++_|_LiDAR_|_AI_Vision-E4000F?style=for-the-badge" alt="Tech"/>
+    <img src="https://img.shields.io/badge/TECH-ROS2_|_C++_|_LiDAR_|_AI_Vision-00D4FF?style=for-the-badge" alt="Tech"/>
   </p>
 </details>
 
@@ -137,7 +137,7 @@
   <blockquote><em>An ABB-powered robotic manufacturing cell integrated with PLC and a custom HMI dashboard for real-time monitoring and control.</em></blockquote>
   <p>
     <img src="https://img.shields.io/badge/STATUS-Completed-success?style=for-the-badge&logo=dependabot&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/TECH-ABB_|_PLC_|_MySQL_|_HMI-E4000F?style=for-the-badge" alt="Tech"/>
+    <img src="https://img.shields.io/badge/TECH-ABB_|_PLC_|_MySQL_|_HMI-00D4FF?style=for-the-badge" alt="Tech"/>
   </p>
 </details>
 
@@ -149,7 +149,7 @@
   <blockquote><em>A high-performance, real-time object detection and SLAM pipeline accelerated with CUDA and TensorFlow for robotic perception.</em></blockquote>
   <p>
     <img src="https://img.shields.io/badge/STATUS-Ongoing_Development-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/TECH-Python_|_OpenCV_|_CUDA_|_TF-E4000F?style=for-the-badge" alt="Tech"/>
+    <img src="https://img.shields.io/badge/TECH-Python_|_OpenCV_|_CUDA_|_TF-00D4FF?style=for-the-badge" alt="Tech"/>
   </p>
 </details>
 
@@ -161,7 +161,7 @@
   <blockquote><em>A Unity-based simulation environment for testing robotic algorithms in a gamified world with challenges and levels.</em></blockquote>
   <p>
     <img src="https://img.shields.io/badge/STATUS-In_Progress-yellow?style=for-the-badge&logo=unity&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/TECH-Unity_|_C%23_|_ROS_|_AI-E4000F?style=for-the-badge" alt="Tech"/>
+    <img src="https://img.shields.io/badge/TECH-Unity_|_C%23_|_ROS_|_AI-00D4FF?style=for-the-badge" alt="Tech"/>
   </p>
 </details>
 
@@ -173,7 +173,7 @@
   <blockquote><em>A multiplayer robot battle game where players code AI behaviors for their bots using Python and ROS.</em></blockquote>
   <p>
     <img src="https://img.shields.io/badge/STATUS-Prototype-orange?style=for-the-badge&logo=python&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/TECH-Python_|_ROS_|_Unity_|_Multiplayer-E4000F?style=for-the-badge" alt="Tech"/>
+    <img src="https://img.shields.io/badge/TECH-Python_|_ROS_|_Unity_|_Multiplayer-00D4FF?style=for-the-badge" alt="Tech"/>
   </p>
 </details>
 </div>
@@ -230,7 +230,7 @@
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Sachin-Karthikeyan&label=PLAYER+VISITS&color=E4000F&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sachin-Karthikeyan&label=PLAYER+VISITS&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
   
   <br/><br/>
   
