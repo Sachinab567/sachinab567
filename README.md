@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=256&section=header&text=ROBOTICS%20×%20AUTOMATION%20×%20GAMING&fontSize=36&fontAlignY=38&desc=Welcome%20to%20the%20Digital%20Nexus%20of%20Innovation&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=256&section=header&text=ROBOTICS%20×%2ОAUTOMATION%20×%20GAMING&fontSize=36&fontAlignY=38&desc=Welcome%20to%20the%20Digital%20Nexus%20of%20Innovation&descAlignY=55&descAlign=50&animation=twinkling" alt="header"/>
 
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/assets/images/banner.gif" width="100%" alt="Cyberpunk HUD Banner" />
 
@@ -77,7 +77,6 @@
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinab567&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sachinab567&theme=synthwave&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFE66D&currStreakLabel=FF6B6B&dates=FFFFFF" alt="GitHub Streak"/>
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinab567&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&langs_count=10" alt="Top Languages"/>
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=sachinab567&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophy Cabinet"/>
 
